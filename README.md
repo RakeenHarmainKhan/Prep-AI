@@ -120,7 +120,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 ## <a name="screenshots">📷 Screenshots</a>
-
+<div align="center>
   <img src="https://github.com/user-attachments/assets/2df801a3-ebdb-4677-a655-d7db6209a5ab" alt="Screenshot 1" width="600"/>
   <br /><br />
   <img src="https://github.com/user-attachments/assets/89769a8f-ab07-4500-8d7e-91e4c3f57543" alt="Screenshot 2" width="600"/>
