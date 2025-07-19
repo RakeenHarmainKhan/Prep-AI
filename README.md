@@ -121,14 +121,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="screenshots">📷 Screenshots</a>
 
-<div align="center">
-
-  <img src="Screenshot 2025-07-19 162055.png" alt="Screenshot 1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2df801a3-ebdb-4677-a655-d7db6209a5ab" alt="Screenshot 1" width="600"/>
   <br /><br />
-  <img src="Screenshot 2025-07-19 162109.png" alt="Screenshot 2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/89769a8f-ab07-4500-8d7e-91e4c3f57543" alt="Screenshot 2" width="600"/>
   <br /><br />
-  <img src="Screenshot 2025-07-19 162115.png" alt="Screenshot 3" width="600"/>
+  <img src="https://github.com/user-attachments/assets/854bbdd8-2c4f-4801-aed4-377a5044dc42" alt="Screenshot 3" width="600"/>
   <br /><br />
-  <img src="Screenshot 2025-07-19 162135.png" alt="Screenshot 4" width="600"/>
+  <img src="https://github.com/user-attachments/assets/ca572824-e700-4cfc-aa5e-83f9cd6377cc" alt="Screenshot 4" width="600"/>
 
 </div>
